@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amaris-eft
-- 👀 I’m interested in UX/UI Design and Data Analyics.
-- 🌱 I’m currently learning Computer Information Systems with a concentration in Data Analytics.
+- 👀 I’m a recent grad from Baruch College with a BA in Data Analyics.
+- 🌱 I’m a Designer at IBM.
 - 💞️ I’m looking to collaborate on Design challenges and Data Science workshops.
 - 📫 How to reach me --> LinkedIn: https://www.linkedin.com/in/amarisefthimiou/ // email: amarisefthimiou@gmail.com
 
