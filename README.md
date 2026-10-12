@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amaris-eft
-- 👀 I’m a recent grad from Baruch College with a BA in Data Analyics.
-- 🌱 I’m a Designer at IBM.
-- 💞️ I’m looking to collaborate on Design challenges and Data Science workshops.
+- 👀 I received my BBA in Data Analytics from the Zicklin School of Business, Baruch College.
+- 🌱 I’m a Client Value Engineer at IBM.
+- 💞️ I love design, cooking, and gaming. My random projects are usually inspired by one of the three.
 - 📫 How to reach me --> LinkedIn: https://www.linkedin.com/in/amarisefthimiou/ // email: amarisefthimiou@gmail.com
 
 <!---
